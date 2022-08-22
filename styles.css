@@ -1,0 +1,23 @@
+body{
+  background-image: linear-gradient(to TOP,#0a0a0a,#334007);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat; 
+  background-attachment:fixed;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+h1{
+    margin-top: 10%;
+    margin-bottom: 0;
+}
+
+h4{
+    color: white;
+}
+
+.mid{
+    text-align: center;
+    color: white;
+    
+}
