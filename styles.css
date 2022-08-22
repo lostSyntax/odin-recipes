@@ -1,15 +1,10 @@
 body{
-  background-image: linear-gradient(to TOP,#0a0a0a,#334007);
-  height: 100%;
-  margin: 0;
-  background-repeat: no-repeat; 
-  background-attachment:fixed;
+  margin: 0px 0px 0px;
   font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 h1{
-    margin-top: 10%;
-    margin-bottom: 0;
+    margin-top: 3%;
 }
 
 h4{
@@ -18,6 +13,36 @@ h4{
 
 .mid{
     text-align: center;
+    background-image: linear-gradient(to TOP,#0a0a0a,#334007);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat; 
+    background-attachment:fixed;
     color: white;
     
+}
+
+.mid .under{
+    margin-top: 10%;
+}
+
+/* pages edit karne ka time */
+
+.Fpic{
+    height: 400px;
+    width: 400px;
+}
+
+.madhe{
+    text-align: center;
+}
+
+.incolor{
+    background-image: linear-gradient(to TOP,#ffffd1bd,#EBF1B6);
+    height: auto;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat; 
+    background-attachment:fixed;
 }
